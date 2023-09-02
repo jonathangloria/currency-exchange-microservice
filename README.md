@@ -1,3 +1,3 @@
-# Currency Exchange REST API
+# Currency Conversion REST API
 
-This is Currency Exchange REST API built with Spring Boot
+This is Currency Conversion REST API built with Spring Boot
